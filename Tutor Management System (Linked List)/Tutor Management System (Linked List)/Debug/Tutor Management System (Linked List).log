@@ -1,0 +1,8 @@
+﻿  Linked list.cpp
+c:\users\user\downloads\tutor management system (linked list)\tutor management system (linked list)\linked list.cpp(68): warning C4101: 'i': unreferenced local variable
+c:\users\user\downloads\tutor management system (linked list)\tutor management system (linked list)\linked list.cpp(700): warning C4101: 'n': unreferenced local variable
+c:\users\user\downloads\tutor management system (linked list)\tutor management system (linked list)\linked list.cpp(700): warning C4101: 'r': unreferenced local variable
+c:\users\user\downloads\tutor management system (linked list)\tutor management system (linked list)\linked list.cpp(757): warning C4101: 'random': unreferenced local variable
+c:\users\user\downloads\tutor management system (linked list)\tutor management system (linked list)\linked list.cpp(1041): warning C4551: function call missing argument list
+c:\users\user\downloads\tutor management system (linked list)\tutor management system (linked list)\linked list.cpp(228): warning C4715: 'search': not all control paths return a value
+  Tutor Management System (Linked List).vcxproj -> C:\Users\User\Downloads\Tutor Management System (Linked List)\Debug\Tutor Management System (Linked List).exe
