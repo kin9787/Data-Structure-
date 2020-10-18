@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Totor Management System.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\jared\source\repos\totor management system\totor management system\source.cpp(390): warning C4552: '<': result of expression not used
+c:\users\jared\source\repos\totor management system\totor management system\source.cpp(751): warning C4101: 'n': unreferenced local variable
+c:\users\jared\source\repos\totor management system\totor management system\source.cpp(809): warning C4101: 'random': unreferenced local variable
+c:\users\jared\source\repos\totor management system\totor management system\source.cpp(916): warning C4551: function call missing argument list
+  Totor Management System.vcxproj -> C:\Users\jared\source\repos\Totor Management System\Debug\Tutor Management System.exe

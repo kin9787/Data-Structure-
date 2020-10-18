@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\user\downloads\totor management system\totor management system\totor management system\source.cpp(390): warning C4552: '<': result of expression not used
+c:\users\user\downloads\totor management system\totor management system\totor management system\source.cpp(751): warning C4101: 'n': unreferenced local variable
+c:\users\user\downloads\totor management system\totor management system\totor management system\source.cpp(809): warning C4101: 'random': unreferenced local variable
+c:\users\user\downloads\totor management system\totor management system\totor management system\source.cpp(916): warning C4551: function call missing argument list
+  Totor Management System.vcxproj -> C:\Users\User\Downloads\Totor Management System\Totor Management System\x64\Debug\Tutor Management System.exe
