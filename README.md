@@ -68,7 +68,7 @@ Year 2 Sem 2 Assignment
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-    <img src="images/DataStructureExample.JPG" alt="Logo" width="750" height="400" >
+    <img src="images/DataStructureExample.JPG" alt="Logo" width="500" height="400" >
 </p>
 
 <!-- [![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Data-Structure-Assignment/blob/master/images/DataStructureExample.JPG) -->
